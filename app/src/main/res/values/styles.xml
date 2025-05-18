@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="estiloPaisCard" parent="Widget.Material3.CardView.Filled">
+        <!-- Fondo de la tarjeta -->
+        <item name="cardBackgroundColor">@color/rosa</item>
+        <!-- Bordes redondeados -->
+        <item name="shapeAppearance">@style/ShapeAppearance.Material3.MediumComponent</item>
+        <item name="cardCornerRadius">12dp</item>
+        <!-- Elevación y sombra -->
+        <item name="cardElevation">8dp</item>
+        <item name="cardMaxElevation">12dp</item>
+        <item name="cardUseCompatPadding">false</item>
+        <!-- Borde -->
+        <item name="strokeColor">@color/violeta</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+
+    <style name="esquinasRedondas">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="estiloNombrePais">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">@color/verdeoscuro</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="estiloRestoTextos">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/azuloscuro</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>

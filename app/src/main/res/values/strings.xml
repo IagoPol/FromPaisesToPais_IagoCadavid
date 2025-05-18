@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="nombreDesign">Narnia</string>
+    <string name="abreviaturaDesign">Nani</string>
+    <string name="nombre">País: United Nations Space Command</string>
+    <string name="poblacion">Poblacion: 100000</string>
+    <string name="capital">Capital: Reach</string>
+    <string name="divisa">Abreviatura de divisa: CR</string>
+    <string name="telefono">Telefono: 981</string>
+</resources>
